@@ -1,81 +1,212 @@
-# Zakaria Douih's GitHub Portfolio
+# Portfolio GitHub de Zakaria Douih
 
-Welcome to my GitHub portfolio! I'm a Data & Software Engineering student with experience in web development, data engineering, and application design. Here you'll find a showcase of my projects and skills.
+<div align="center">
+  <img src="/api/placeholder/800/200" alt="Bannière Portfolio" />
+</div>
 
-## About Me
+## 👨‍💻 À propos de moi
 
-I'm currently studying Data & Software Engineering at the National Institute of Statistics and Applied Economics (INSEA). My technical journey includes experience with data engineering tools, web development, and software design practices. I'm passionate about creating efficient solutions that solve real-world problems.
+<div align="center">
+  <img src="/api/placeholder/150/150" alt="Photo de profil" style="border-radius:50%" />
+</div>
 
-## Projects
+Je suis actuellement étudiant en **Data & Software Engineering** à l'Institut National de Statistique et d'Économie Appliquée (INSEA). Mon parcours technique comprend une expérience avec des outils d'ingénierie des données, de développement web et des pratiques de conception logicielle. Je suis passionné par la création de solutions efficaces qui résolvent des problèmes concrets.
 
-### Smart Mini Commercial ERP (2025)
-A desktop platform providing comprehensive enterprise management capabilities:
-- Full control over enterprise data, operations, and staff
-- Sentiment analysis to understand customer satisfaction trends by geographic location
-- Data-driven selection of potential customers and suppliers
-- Customer experience metrics to extract recurring complaints and satisfaction drivers
-- **Technologies**: Python, BeautifulSoup, Apache Airflow, PostgreSQL, DBT, Looker Studio, GitHub, Spring Boot, Swing API
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria-douih)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douihzakaria@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheZikoHunter)
+  
+</div>
 
-### Bank Agency Customer Review Analysis (2025)
-A modern data stack implementation for analyzing customer reviews of Moroccan bank agencies:
-- Sentiment analysis for understanding customer satisfaction trends
-- Topic modeling to identify common issues and praise points
-- Branch performance ranking based on customer sentiment
-- Customer experience metrics extraction
-- **Technologies**: Python, Google Maps, BeautifulSoup, Apache Airflow, PostgreSQL, DBT, Looker Studio, GitHub
+## 🚀 Projets
 
-### Hotel Management Application (2025)
-A comprehensive hotel management solution:
-- Web application for hosting clients
-- Local application for internal management
-- Implemented using MVC architecture
-- **Technologies**: J2EE, UML, MySQL
+### 📊 Smart Mini Commercial ERP (2025)
+<div align="center">
+  <img src="/api/placeholder/600/300" alt="Capture d'écran ERP" />
+</div>
 
-### Android Portfolio Application (2025)
-A personalized student portfolio application:
-- Display of student subjects and scores
-- Full CRUD functionality
-- **Technologies**: Java, SQLite, REST API, UML
+Une plateforme de bureau offrant des capacités complètes de gestion d'entreprise :
+- Contrôle total des données, des opérations et du personnel de l'entreprise
+- Analyse des sentiments pour comprendre les tendances de satisfaction client par localisation géographique
+- Sélection de clients et fournisseurs potentiels basée sur les données
+- Métriques d'expérience client pour extraire les plaintes récurrentes et les facteurs de satisfaction
 
-### ANCFCC Application Object-Oriented Modeling (2025)
-- Reverse-engineering using UML modeling language
-- Application of 2TUP process methodology
-- **Technologies**: UML
+**Technologies** :
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+  
+</div>
 
-### AFN Determination Tool (2024)
-- Graphical interface for input and determination of non-deterministic finite automata
-- Designed to improve compilation processes
-- **Technologies**: Java (Swing)
+### 🏦 Analyse des Avis Clients des Agences Bancaires au Maroc (2025)
+<div align="center">
+  <img src="/api/placeholder/600/300" alt="Dashboard d'analyse" />
+</div>
 
-### Archive Simulator (2024)
-- Local web application for global management of Guelmim's city records archive
-- **Technologies**: PHP (procedural), HTML, CSS, JavaScript, Apache, MySQL
+Une implémentation moderne de stack de données pour analyser les avis clients des agences bancaires marocaines :
+- Analyse des sentiments pour comprendre les tendances de satisfaction client
+- Modélisation de sujets pour identifier les problèmes communs et les points positifs
+- Classement des performances des agences basé sur le sentiment client
+- Extraction des métriques d'expérience client
 
-### Partnership Management Tool (2024)
-- Local web application to manage partnerships between associations and institutions
-- **Technologies**: PHP (Object-Oriented Programming), HTML, CSS, JavaScript, Apache, MySQL
+**Technologies** :
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+  
+</div>
 
-## Technical Skills
+### 🏨 Application de Gestion Hôtelière (2025)
+<div align="center">
+  <img src="/api/placeholder/600/300" alt="Interface de gestion hôtelière" />
+</div>
 
-- **Data Engineering**: BeautifulSoup, Apache Airflow, SuperSet, DBT, ETL
-- **Programming**: Java Enterprise Edition, Hibernate, Spring Boot, PHP, HTML, CSS, JavaScript, Python
-- **Databases**: MySQL, Oracle 12c, DBA Oracle 21c, PostgreSQL
-- **Engineering Modeling**: UML, Model-Driven Engineering
-- **Other Technical Skills**: Data structures, algorithms, linear programming, local network administration
+Une solution complète de gestion hôtelière :
+- Application web pour l'hébergement des clients
+- Application locale pour la gestion interne
+- Implémentation selon l'architecture MVC
 
-## Languages
-- Arabic (native)
-- French (fluent)
-- English (fluent)
+**Technologies** :
+<div align="center">
+  
+![J2EE](https://img.shields.io/badge/J2EE-007396?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![UML](https://img.shields.io/badge/UML-FFC107?style=for-the-badge&logo=uml&logoColor=black)
+  
+</div>
 
-## Contact Me
+### 📱 Application Portfolio Android (2025)
+<div align="center">
+  <img src="/api/placeholder/300/600" alt="Application Android" />
+</div>
 
-Feel free to reach out to me for collaboration or opportunities:
-- Email: douihzakaria@gmail.com
-- Phone: +212 6 96 82 26 04
-- LinkedIn: [linkedin.com/in/zakaria-douih](https://linkedin.com/in/zakaria-douih)
-- GitHub: [github.com/TheZikoHunter](https://github.com/TheZikoHunter)
+Une application de portfolio personnalisée pour les étudiants :
+- Affichage des matières et des notes d'un étudiant
+- Fonctionnalité CRUD complète
+
+**Technologies** :
+<div align="center">
+  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
+  
+</div>
+
+### 🔄 Autres Projets
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 48%;">
+    <h4>Modélisation ANCFCC (2025)</h4>
+    <img src="/api/placeholder/280/150" alt="UML Diagram" />
+    <p>Rétro-ingénierie utilisant UML et méthodologie 2TUP</p>
+    <div>
+      <img src="https://img.shields.io/badge/UML-FFC107?style=flat-square&logo=uml&logoColor=black" alt="UML" />
+    </div>
+  </div>
+  <div style="width: 48%;">
+    <h4>Outil AFN (2024)</h4>
+    <img src="/api/placeholder/280/150" alt="AFN Tool Interface" />
+    <p>Interface pour automates finis non déterministes</p>
+    <div>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Swing-43B02A?style=flat-square&logo=java&logoColor=white" alt="Swing" />
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+  <div style="width: 48%;">
+    <h4>Simulateur d'Archives (2024)</h4>
+    <img src="/api/placeholder/280/150" alt="Archive Simulator" />
+    <p>Gestion des archives de la ville de Guelmim</p>
+    <div>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+    </div>
+  </div>
+  <div style="width: 48%;">
+    <h4>Gestion des Partenariats (2024)</h4>
+    <img src="/api/placeholder/280/150" alt="Partnership Tool" />
+    <p>Gestion des partenariats entre associations et institutions</p>
+    <div>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+    </div>
+  </div>
+</div>
+
+## 💼 Expérience Professionnelle
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/api/placeholder/100/100" alt="ONEE Logo" style="margin-right: 20px;" />
+  <div>
+    <h3>Office National de l'Électricité et de l'Eau Potable</h3>
+    <p><em>Stage, Août 2024</em></p>
+    <p>Développement d'une application web en PHP et Apache pour simuler l'organisation d'archives lors de la migration de systèmes d'information.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/api/placeholder/100/100" alt="MEN Logo" style="margin-right: 20px;" />
+  <div>
+    <h3>Ministère de l'Éducation Nationale</h3>
+    <p><em>Stage de découverte, Juillet 2024</em></p>
+    <p>Développement d'une application web en PHP et Apache pour gérer les partenariats entre l'administration et les associations locales.</p>
+  </div>
+</div>
+
+## 🛠️ Compétences Techniques
+
+<div align="center">
+  
+### Langages de Programmation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Bases de Données
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Frameworks & Outils
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![UML](https://img.shields.io/badge/UML-FFC107?style=for-the-badge&logo=uml&logoColor=black)
+
+</div>
+
+## 🌐 Langues
+- 🇲🇦 Arabe (langue maternelle)
+- 🇫🇷 Français (courant)
+- 🇬🇧 Anglais (courant)
+
+## 📫 Contactez-moi
+
+<div align="center">
+  <a href="mailto:douihzakaria@gmail.com"><img src="/api/placeholder/50/50" alt="Email" style="margin: 0 10px;"/></a>
+  <a href="https://linkedin.com/in/zakaria-douih"><img src="/api/placeholder/50/50" alt="LinkedIn" style="margin: 0 10px;"/></a>
+  <a href="https://github.com/TheZikoHunter"><img src="/api/placeholder/50/50" alt="GitHub" style="margin: 0 10px;"/></a>
+  <a href="tel:+212696822604"><img src="/api/placeholder/50/50" alt="Phone" style="margin: 0 10px;"/></a>
+</div>
 
 ---
 
-Thank you for visiting my portfolio! I'm always open to new challenges and opportunities.
+<div align="center">
+  <img src="/api/placeholder/800/100" alt="Footer Banner" />
+  <p>Merci d'avoir visité mon portfolio ! Je suis toujours ouvert à de nouveaux défis et opportunités.</p>
+</div>
