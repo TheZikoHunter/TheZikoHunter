@@ -1,74 +1,81 @@
-# 👨‍💻 Zakaria Douih
+# Zakaria Douih's GitHub Portfolio
 
-📍 Guelmim, Morocco  
-📧 douihzakaria@gmail.com  
-📞 +212 6 96 82 26 04  
-🔗 [LinkedIn](https://linkedin.com/in/zakaria-douih) | [GitHub](https://github.com/TheZikoHunter)
+Welcome to my GitHub portfolio! I'm a Data & Software Engineering student with experience in web development, data engineering, and application design. Here you'll find a showcase of my projects and skills.
+
+## About Me
+
+I'm currently studying Data & Software Engineering at the National Institute of Statistics and Applied Economics (INSEA). My technical journey includes experience with data engineering tools, web development, and software design practices. I'm passionate about creating efficient solutions that solve real-world problems.
+
+## Projects
+
+### Smart Mini Commercial ERP (2025)
+A desktop platform providing comprehensive enterprise management capabilities:
+- Full control over enterprise data, operations, and staff
+- Sentiment analysis to understand customer satisfaction trends by geographic location
+- Data-driven selection of potential customers and suppliers
+- Customer experience metrics to extract recurring complaints and satisfaction drivers
+- **Technologies**: Python, BeautifulSoup, Apache Airflow, PostgreSQL, DBT, Looker Studio, GitHub, Spring Boot, Swing API
+
+### Bank Agency Customer Review Analysis (2025)
+A modern data stack implementation for analyzing customer reviews of Moroccan bank agencies:
+- Sentiment analysis for understanding customer satisfaction trends
+- Topic modeling to identify common issues and praise points
+- Branch performance ranking based on customer sentiment
+- Customer experience metrics extraction
+- **Technologies**: Python, Google Maps, BeautifulSoup, Apache Airflow, PostgreSQL, DBT, Looker Studio, GitHub
+
+### Hotel Management Application (2025)
+A comprehensive hotel management solution:
+- Web application for hosting clients
+- Local application for internal management
+- Implemented using MVC architecture
+- **Technologies**: J2EE, UML, MySQL
+
+### Android Portfolio Application (2025)
+A personalized student portfolio application:
+- Display of student subjects and scores
+- Full CRUD functionality
+- **Technologies**: Java, SQLite, REST API, UML
+
+### ANCFCC Application Object-Oriented Modeling (2025)
+- Reverse-engineering using UML modeling language
+- Application of 2TUP process methodology
+- **Technologies**: UML
+
+### AFN Determination Tool (2024)
+- Graphical interface for input and determination of non-deterministic finite automata
+- Designed to improve compilation processes
+- **Technologies**: Java (Swing)
+
+### Archive Simulator (2024)
+- Local web application for global management of Guelmim's city records archive
+- **Technologies**: PHP (procedural), HTML, CSS, JavaScript, Apache, MySQL
+
+### Partnership Management Tool (2024)
+- Local web application to manage partnerships between associations and institutions
+- **Technologies**: PHP (Object-Oriented Programming), HTML, CSS, JavaScript, Apache, MySQL
+
+## Technical Skills
+
+- **Data Engineering**: BeautifulSoup, Apache Airflow, SuperSet, DBT, ETL
+- **Programming**: Java Enterprise Edition, Hibernate, Spring Boot, PHP, HTML, CSS, JavaScript, Python
+- **Databases**: MySQL, Oracle 12c, DBA Oracle 21c, PostgreSQL
+- **Engineering Modeling**: UML, Model-Driven Engineering
+- **Other Technical Skills**: Data structures, algorithms, linear programming, local network administration
+
+## Languages
+- Arabic (native)
+- French (fluent)
+- English (fluent)
+
+## Contact Me
+
+Feel free to reach out to me for collaboration or opportunities:
+- Email: douihzakaria@gmail.com
+- Phone: +212 6 96 82 26 04
+- LinkedIn: [linkedin.com/in/zakaria-douih](https://linkedin.com/in/zakaria-douih)
+- GitHub: [github.com/TheZikoHunter](https://github.com/TheZikoHunter)
 
 ---
 
-## 💼 About Me
-
-I’m a passionate **Data & Software Engineering student** at the National Institute of Statistics and Applied Economics (INSEA), with a solid foundation in web development, data engineering, and software architecture. I enjoy designing innovative solutions that bridge data insights with real-world impact.
-
----
-
-## 🧠 Skills
-
-- **Programming:** Java (J2EE, Swing, Spring Boot), Python, PHP (OOP & Procedural), JavaScript, HTML/CSS  
-- **Databases:** MySQL, PostgreSQL, Oracle 12c/21c  
-- **Data Engineering:** BeautifulSoup, Apache Airflow, DBT, Looker Studio, ETL pipelines  
-- **Modeling & Architecture:** UML, Merise, Model-Driven Engineering  
-- **Other Tools:** Git, REST APIs, Apache, SuperSet
-
----
-
-## 🚀 Projects
-
-### 📦 [Smart Mini Commercial ERP](https://github.com/TheZikoHunter/Digital-Portfolio)
-A desktop ERP platform that enables enterprise data control, customer analysis, and operational monitoring.  
-**Tech Stack:** Python, Spring Boot, PostgreSQL, Apache Airflow, Looker Studio
-
-### 📊 [Customer Reviews Analysis for Banks](https://github.com/TheZikoHunter/Digital-Portfolio)
-Uses sentiment analysis and topic modeling to evaluate customer experience across Moroccan bank branches.  
-**Tech Stack:** Python, BeautifulSoup, PostgreSQL, Looker Studio
-
-### 🏨 [Hotel Management System](https://github.com/TheZikoHunter/Digital-Portfolio)
-An MVC-based web and local application for client hosting and hotel management.  
-**Tech Stack:** J2EE, MySQL
-
-### 📱 [Android Portfolio App](https://github.com/TheZikoHunter/Digital-Portfolio)
-Android app showcasing students' subjects and grades using a RESTful backend.  
-**Tech Stack:** Java, SQLite, REST API
-
-### 🔧 [AFN Determination Tool](https://github.com/TheZikoHunter/AFN-Determination-Tool)
-A Java Swing tool to visualize and determine non-deterministic finite automata.  
-**Tech Stack:** Java (Swing)
-
-### 🗄️ [Archive Simulator](https://github.com/TheZikoHunter/ONEP_archive)
-Simulates archive management for Guelmim's city records with integrated statistical visualization.  
-**Tech Stack:** PHP, Apache, MySQL, JavaScript
-
-### 🤝 [Partnership Manager](https://github.com/TheZikoHunter/partnership_manager)
-Local PHP application to manage partnerships between public institutions and local associations.  
-**Tech Stack:** PHP (OOP), MySQL
-
----
-
-## 📈 Education
-
-**National Institute of Statistics and Applied Economics (INSEA)**  
-*Data & Software Engineering | 2023 - Present*
-
-**Preparatory Classes for Engineering Schools (MP)**  
-*Guelmim Bab Essahra Center | 2021 - 2023*
-
----
-
-## 📬 Contact
-
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/zakaria-douih) or email at douihzakaria@gmail.com!
-
----
-
-⭐ *Let’s build solutions that matter.*
+Thank you for visiting my portfolio! I'm always open to new challenges and opportunities.
