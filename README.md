@@ -176,29 +176,7 @@ Une application de portfolio personnalisée pour les étudiants :
 
 ### Frameworks & Outils
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-FFC107?style=for-the-badge&logo=uml&logoColor=black)
-
-</div>
-
-## 🌐 Langues
-- 🇲🇦 Arabe (langue maternelle)
-- 🇫🇷 Français (courant)
-- 🇬🇧 Anglais (courant)
-
-## 📫 Contactez-moi
-
-<div align="center">
-  <a href="mailto:douihzakaria@gmail.com"><img src="/api/placeholder/50/50" alt="Email" style="margin: 0 10px;"/></a>
-  <a href="https://linkedin.com/in/zakaria-douih"><img src="/api/placeholder/50/50" alt="LinkedIn" style="margin: 0 10px;"/></a>
-  <a href="https://github.com/TheZikoHunter"><img src="/api/placeholder/50/50" alt="GitHub" style="margin: 0 10px;"/></a>
-  <a href="tel:+212696822604"><img src="/api/placeholder/50/50" alt="Phone" style="margin: 0 10px;"/></a>
-</div>
-
----
-
-<div align="center">
-  <img src="/api/placeholder/800/100" alt="Footer Banner" />
-  <p>Merci d'avoir visité mon portfolio ! Je suis toujours ouvert à de nouveaux défis et opportunités.</p>
+  
 </div>
