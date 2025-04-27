@@ -1,14 +1,6 @@
 # Portfolio GitHub de Zakaria Douih
 
-<div align="center">
-  <img src="/api/placeholder/800/200" alt="Bannière Portfolio" />
-</div>
-
 ## 👨‍💻 À propos de moi
-
-<div align="center">
-  <img src="/api/placeholder/150/150" alt="Photo de profil" style="border-radius:50%" />
-</div>
 
 Je suis actuellement étudiant en **Data & Software Engineering** à l'Institut National de Statistique et d'Économie Appliquée (INSEA). Mon parcours technique comprend une expérience avec des outils d'ingénierie des données, de développement web et des pratiques de conception logicielle. Je suis passionné par la création de solutions efficaces qui résolvent des problèmes concrets.
 
