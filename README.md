@@ -178,5 +178,9 @@ Une application de portfolio personnalisée pour les étudiants :
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-FFC107?style=for-the-badge&logo=uml&logoColor=black)
+![SQL Developer](https://img.shields.io/badge/SQL%20Developer-007396?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Astah](https://img.shields.io/badge/Astah-00AEEF?style=for-the-badge&logoColor=white)
+
   
 </div>
