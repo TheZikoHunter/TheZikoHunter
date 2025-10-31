@@ -1,6 +1,6 @@
 # À propos de moi
 
-Je suis actuellement étudiant en **Data & Software Engineering** à l'Institut National de Statistique et d'Économie Appliquée (INSEA). Mon parcours technique comprend une expérience avec des outils d'ingénierie des données, de développement web et des pratiques de conception logicielle. Je suis passionné par la création de solutions efficaces qui suivent les bonnes pratiques de modélisation de l'orienté objet.
+Je suis actuellement étudiant en **Data & Software Engineering** à l'Institut National de Statistique et d'Économie Appliquée (INSEA). Mon parcours technique comprend une expérience avec des outils d'ingénierie des données, de développement web Full Stack (actuellement stack Java/Angular) et des pratiques de conception logicielle. Je suis passionné par la création de solutions efficaces qui suivent les bonnes pratiques de modélisation de l'orienté objet.
 
 <div align="center">
 
@@ -90,10 +90,16 @@ Notebook Python : nettoyage, visualisation, indicateurs, stats descriptives
 # Compétences
 
 **Langages :** Java, Python, PHP, JavaScript, TypeScript, SQL, HTML/CSS
+
 **Gestion de projet :** Agile, Scrum, Business Analysis, communication et gestion de conflit.
+
 **Bases de données :** PostgreSQL, MySQL, Oracle et PL/SQL
+
 **Frameworks :** Spring Boot, J2EE, Hibernate et Angular
+
 **DevOps :** GitLab, Docker, Github Actions, Kubernetes et Jenkins.
+
+**Testing :** JUnit, PHPUnit, Playwright.
 
 # Contact
 
