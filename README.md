@@ -1,17 +1,14 @@
-# Zakaria Douih – Data & Software Engineer
-
-I am a **Data & Software Engineering** student at INSEA, experienced in full-stack web development (Java/Angular), data engineering, and software design. I build efficient, maintainable solutions following best practices in object-oriented programming.
+# Zakaria Douih – Software Engineer
 
 ---
 
 ## 🛠 Skills
 
-**Languages:** Java, Python, PHP, JavaScript/TypeScript, SQL, HTML/CSS  
-**Frameworks:** Spring Boot, J2EE, Hibernate, Angular  
-**Databases:** PostgreSQL, MySQL, Oracle, PL/SQL  
-**DevOps & CI/CD:** Docker, Kubernetes, Jenkins, GitLab, GitHub Actions  
-**Testing:** JUnit, PHPUnit, Playwright  
-**Project Management:** Agile, Scrum, Business Analysis, Communication  
+**Languages:** C#, Typescript, PL/SQL
+**Frameworks:** Angular, .NET Core, EF Core
+**Databases:** SQL Server, Oracle
+**DevOps & CI/CD:** GitLab, Azure DevOps
+**Special:** Business Analysis, Communication, UML
 
 ---
 
