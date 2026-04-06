@@ -4,11 +4,11 @@
 
 ## 🛠 Skills
 
-**Languages:** C#, Typescript, PL/SQL
-**Frameworks:** Angular, .NET Core, EF Core
-**Databases:** SQL Server, Oracle
-**DevOps & CI/CD:** GitLab, Azure DevOps
-**Special:** Business Analysis, Communication, UML
+- **Languages:** C#, Typescript, PL/SQL
+- **Frameworks:** Angular, .NET Core, EF Core
+- **Databases:** SQL Server, Oracle
+- **DevOps & CI/CD:** GitLab, Azure DevOps
+- **Special:** Business Analysis, Communication, UML
 
 ---
 
